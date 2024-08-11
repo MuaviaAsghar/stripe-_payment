@@ -1,4 +1,1 @@
-const String stripePublishableKey =
-    "pk_test_51Plb902LQEHXByg2CVCUABbsLHhR8vaPBkKi3Cx2pFxTUGPE2KhXNoRVLSmbU6AHVuhz58EuVQaQxgfu7RAbP8Vw00DmZtcin7";
-const String stripeSecretKey =
-    "sk_test_51Plb902LQEHXByg2uVhWwKd4EgRHjbOQ20dZ3NxjNw8qnmb4qOjvLfezhHFZ8Ca8UavmkHWI3MtIawvtX9aSkGMy00MYDw0Err";
+
